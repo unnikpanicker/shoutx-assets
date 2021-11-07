@@ -1,0 +1,22 @@
+{
+  "name": "@unnikpanicker/shoutx-assets",
+  "version": "1.0.0",
+  "description": "assets for shoutx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unnikpanicker/shoutx-assets.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unnikpanicker/shoutx-assets/issues"
+  },
+  "homepage": "https://github.com/unnikpanicker/shoutx-assets#readme"
+}
