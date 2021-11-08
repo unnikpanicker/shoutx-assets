@@ -20,6 +20,7 @@ import CarouselScrollingArrowIcon from "./assets/icons/carousel-scrolling-arrow.
 import GradeIcon from "./assets/icons/grade-24px.png";
 import ImageSmallIcon from "./assets/icons/image-small.png";
 import ModalCloseIcon from "./assets/icons/modal-close.png";
+import RequestCopyIcon from "./assets/icons/request-copy.png";
 import MoreThreeDotIcon from "./assets/icons/more-three-dot.png";
 //menu icons
 import HomeIcon from "./assets/icons/home.png";
@@ -63,4 +64,5 @@ export {
   SavedSelectedIcon,
   SettingsIcon,
   SettingsSelectedIcon,
+  RequestCopyIcon,
 };
